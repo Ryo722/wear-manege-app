@@ -28,5 +28,17 @@ namespace 衣服管理アプリ
             Form3 form3 = new Form3();
             form3.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form4 form4 = new Form4();
+            form4.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form5 form5 = new Form5();
+            form5.Show();
+        }
     }
 }

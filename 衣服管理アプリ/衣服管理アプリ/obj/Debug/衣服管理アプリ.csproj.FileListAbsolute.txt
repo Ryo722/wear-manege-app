@@ -9,3 +9,5 @@ C:\Users\17t4066r\Desktop\衣服管理アプリ\衣服管理アプリ\obj\Debug\
 C:\Users\17t4066r\Desktop\衣服管理アプリ\衣服管理アプリ\obj\Debug\衣服管理アプリ.exe
 C:\Users\17t4066r\Desktop\衣服管理アプリ\衣服管理アプリ\obj\Debug\衣服管理アプリ.pdb
 C:\Users\17t4066r\Desktop\衣服管理アプリ\衣服管理アプリ\obj\Debug\衣服管理アプリ.Form3.resources
+C:\Users\17t4066r\Desktop\衣服管理アプリ\衣服管理アプリ\obj\Debug\衣服管理アプリ.Form4.resources
+C:\Users\17t4066r\Desktop\衣服管理アプリ\衣服管理アプリ\obj\Debug\衣服管理アプリ.Form5.resources
